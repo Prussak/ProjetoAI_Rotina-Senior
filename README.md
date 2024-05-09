@@ -17,3 +17,5 @@ Os valores que buscamos promover são a segurança e o bem-estar dos nossos clie
 Nossa plataforma é acessível por meio de dispositivos como celulares e Google Home, garantindo conveniência e acessibilidade para nossos usuários.
 
 Além disso, a estrutura de custos do Projeto Rotina Senior é projetada para ser gratuita para o usuário final, visando garantir que nosso serviço seja acessível a todos que necessitam dele.
+
+![image](https://github.com/Prussak/ProjetoAI_Rotina-Senior/assets/60240971/051a0fe2-177c-426d-936a-c22e8a1aa0ca)
