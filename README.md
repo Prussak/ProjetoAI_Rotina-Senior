@@ -18,4 +18,5 @@ Nossa plataforma é acessível por meio de dispositivos como celulares e Google 
 
 Além disso, a estrutura de custos do Projeto Rotina Senior é projetada para ser gratuita para o usuário final, visando garantir que nosso serviço seja acessível a todos que necessitam dele.
 
-![image](https://github.com/Prussak/ProjetoAI_Rotina-Senior/assets/60240971/051a0fe2-177c-426d-936a-c22e8a1aa0ca)
+
+![image](https://github.com/Prussak/ProjetoAI_Rotina-Senior/assets/60240971/b7b83d92-6be9-4393-96a6-811496990e7c)
